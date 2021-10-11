@@ -30,4 +30,3 @@ Iteration is also loop by system, but it will cost a lot of space for every subp
 
 To make the least variable is important, so to make sure which one is variable
 Conclusion: To be sure which dimension is independent variable
-
