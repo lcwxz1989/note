@@ -25,8 +25,10 @@ Subproblem: subproblem is from j to z
 ### Loop is better than iteration
 
 Iteration is also loop by system, but it will cost a lot of space for every subproblem
+[LC576](https://leetcode.com/problems/out-of-boundary-paths/) is a good example for this topic
 
 ### Independent variable vs dependent variable
 
 To make the least variable is important, so to make sure which one is variable
+Example: if `variable a` change depend on `variable b`, while the input param will b not a
 Conclusion: To be sure which dimension is independent variable
